@@ -1,1 +1,2 @@
 # Belajarbaru
+int = mugni
